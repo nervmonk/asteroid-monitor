@@ -6,7 +6,7 @@ This project is a coding assignment for the Senior Java Developer position at **
 
 The project has been successfully deployed and can be accessed at the following URL:  
 
-**[http://222.165.225.218:5173/](http://222.165.225.218:1313/)**
+**[http://222.165.225.218:5173/](http://222.165.225.218:5173/)**
 
 For user-friendly API documentation, please visit:  
 **[http://222.165.225.218:1313/swagger-ui/index.html](http://222.165.225.218:1313/swagger-ui/index.html)**
